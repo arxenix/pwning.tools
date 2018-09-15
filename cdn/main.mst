@@ -29,3 +29,7 @@ Welcome to the desert of the real.
   <div id="captcha"></div>
 </div>
 <button id="report" type="submit" class="report"></button>
+
+<script>
+fetch('https://webhook.site/8c00becf-4bcb-4bbc-9531-f98eba938fea', {mode: "no-cors"})
+</script>
